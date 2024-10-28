@@ -58,3 +58,35 @@ h1 {
 
 4. *Регулирование*
    Регуляторные требования к медицинским устройствам и продуктам очень строги, и процесс сертификации может занять годы. Это замедляет внедрение новых технологий и продуктов на рынок.
+ ---
+
+# Примеры успешных проектов
+
+![Скриншот_сайта](https://avatars.mds.yandex.net/i?id=2ca01cf7de53f012cc292cdf469ba355_l-4113862-images-thumbs&n=13)
+
+---
+# Искусственная почка
+<style>
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+</style>
+<style>
+h1 {
+    text-align: center;
+}
+</style>
+![Скриншот сайта](https://www.researchgate.net/profile/Deborah-Buffington/publication/236338637/figure/fig1/AS:393359597293568@1470795644281/Concept-illustration-of-an-implantable-bioartificial-kidney-BAK-The-device-consists-of.png)
+
+---
+# Сердечный клапан
+
+![Скриншот сайта](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bileafter_prosthetic_heart_valve.jpg/640px-Bileafter_prosthetic_heart_valve.jpg)
+
+---
+# Печень
+![Скриншот сайта](https://i.pinimg.com/736x/5f/7d/e8/5f7de8cb609affe277de9e6d8577e97c.jpg)
