@@ -66,7 +66,7 @@ h1 {
 
 ---
 # Искусственная почка
-![Скриншот сайта](https://www.researchgate.net/profile/Deborah-Buffington/publication/236338637/figure/fig1/AS:393359597293568@1470795644281/Concept-illustration-of-an-implantable-bioartificial-kidney-BAK-The-device-consists-of.png)
+![Скриншот сайта](https://unikal.az/photos/unikal/1634126957_245179036_1117172335354717_7711199206716812484_n%20(1).jpg)
 
 ---
 # Сердечный клапан
