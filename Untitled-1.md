@@ -66,20 +66,6 @@ h1 {
 
 ---
 # Искусственная почка
-<style>
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    text-align: center;
-}
-</style>
-<style>
-h1 {
-    text-align: center;
-}
-</style>
 ![Скриншот сайта](https://www.researchgate.net/profile/Deborah-Buffington/publication/236338637/figure/fig1/AS:393359597293568@1470795644281/Concept-illustration-of-an-implantable-bioartificial-kidney-BAK-The-device-consists-of.png)
 
 ---
